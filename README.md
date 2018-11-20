@@ -1,2 +1,2 @@
 # PullUp
-PullUp ist eine Native Blogging App.
+PullUp ist eine Native Blogging App entwikelt in React Native 

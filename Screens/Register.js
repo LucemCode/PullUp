@@ -141,7 +141,7 @@ class Register extends React.Component {
                         onPress={this.onSubmit}
                     >
 
-                        <Text>Login</Text>
+                        <Text>Regestrieren</Text>
                     </Button>
                     {this.state.inProgress ? <Spinner style={{color: '#ffffff'}}/>:null}
                 </KeyboardScrollingView>

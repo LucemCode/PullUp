@@ -9,7 +9,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "@shoutem/animation": "^0.12.2",
+    "@shoutem/animation": "^0.12.4",
     "@shoutem/ui": "^0.23.4",
     "expo": "^36.0.2",
     "firebase": "^5.5.7",
